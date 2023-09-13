@@ -5,6 +5,7 @@ Supabase Vercel Integration (Step by step)
 Vercel Integration References:
 * https://vercel.com/docs/integrations/create-integration 
 * https://vercel.com/docs/integrations 
+* https://vercel.com/docs/integrations/install-an-integration
 
 GitHub Repo: https://github.com/Ben888GitHub/supabase-vercel-integration
 Vercel Project: https://vercel.com/ben888github/supabase-vercel-integration
