@@ -1,0 +1,10 @@
+
+Supabase Vercel Integration (Step by step)
+* https://supabase.com/partners/integrations/vercel 
+
+Vercel Integration References:
+* https://vercel.com/docs/integrations/create-integration 
+* https://vercel.com/docs/integrations 
+
+GitHub Repo: https://github.com/Ben888GitHub/supabase-vercel-integration
+Vercel Project: https://vercel.com/ben888github/supabase-vercel-integration
